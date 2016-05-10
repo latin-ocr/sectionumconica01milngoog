@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sectionumconica01milngoog_0009.png"; bbox 0 0 640 1121; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 115 174 381 199">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 115 174 381 199">
+     <span class='ocr_line' id='line_1_1' title="bbox 115 174 381 199; baseline 0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 115 174 381 199; x_wconf 75' lang='lat' dir='ltr'>CELEBERRIMAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 5 248 498 291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 5 248 498 291">
+     <span class='ocr_line' id='line_1_2' title="bbox 5 248 498 291; baseline 0.004 -2"><span class='ocrx_word' id='word_1_2' title='bbox 5 248 498 291; x_wconf 59' lang='lat' dir='ltr'>&amp;CAD&#39;EMIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 43 345 518 377">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 43 345 518 377">
+     <span class='ocr_line' id='line_1_3' title="bbox 43 345 518 377; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 43 345 453 377; x_wconf 86' lang='lat' dir='ltr'><em>OXONIENSI</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 516 361 518 363; x_wconf 57' lang='lat'>&gt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 171 429 313 448">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 171 429 313 448">
+     <span class='ocr_line' id='line_1_4' title="bbox 171 429 313 448; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 171 429 205 448; x_wconf 78' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_6' title='bbox 224 429 313 447; x_wconf 85' lang='lat' dir='ltr'>USUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 5 494 498 534">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 5 494 498 534">
+     <span class='ocr_line' id='line_1_5' title="bbox 5 494 498 534; baseline -0.004 -12"><span class='ocrx_word' id='word_1_7' title='bbox 5 494 211 534; x_wconf 17' lang='lat' dir='ltr'><strong>{TUDIOSAEX</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 227 494 498 528; x_wconf 86' lang='lat' dir='ltr'>JUVENTUTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 90 567 382 595">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 90 567 382 595">
+     <span class='ocr_line' id='line_1_6' title="bbox 90 567 382 595; baseline 0 -5"><span class='ocrx_word' id='word_1_9' title='bbox 90 567 323 595; x_wconf 30' lang='lat' dir='ltr'>*OPUSCULUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 349 569 382 590; x_wconf 71' lang='lat'>111</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 312 664 382 687">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 312 664 382 687">
+     <span class='ocr_line' id='line_1_7' title="bbox 312 664 382 687; baseline -0.029 0"><span class='ocrx_word' id='word_1_11' title='bbox 312 664 382 687; x_wconf 73' lang='lat' dir='ltr'>Hamil</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
